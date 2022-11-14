@@ -16,3 +16,9 @@ Every project in my account has a detailed README with all the information relat
 forget to check it out!
 
 ## Languages and Tools
+
+<p align="left">
+  <a href="https://github.com/montee-diego#languages-and-tools">
+    <img src="/img/skills/html" />
+  </a>
+</p>
