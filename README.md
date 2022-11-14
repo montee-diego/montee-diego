@@ -18,16 +18,8 @@ forget to check it out!
 ## Languages and Tools
 
 <p align="left">
-  <a href="https://github.com/montee-diego#languages-and-tools">
-    <img src="/img/skills/html.svg" alt="HTML" />
-  </a>
-  <a href="https://github.com/montee-diego#languages-and-tools">
-    <img src="/img/skills/css.svg" alt="CSS" />
-  </a>
-  <a href="https://github.com/montee-diego#languages-and-tools">
-    <img src="/img/skills/js.svg" alt="JAVASCRIPT" />
-  </a>
-  <a href="https://github.com/montee-diego#languages-and-tools">
-    <img src="/img/skills/ts.svg" alt="TYPESCRIPT" />
-  </a>
+  <a href="#"><img src="/img/skills/html.svg" alt="HTML" /></a>
+  <a href="#"><img src="/img/skills/css.svg" alt="CSS" /></a>
+  <a href="#"><img src="/img/skills/js.svg" alt="JAVASCRIPT" /></a>
+  <a href="#"><img src="/img/skills/ts.svg" alt="TYPESCRIPT" /></a>
 </p>
