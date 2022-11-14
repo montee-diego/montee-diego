@@ -1,7 +1,5 @@
 # Diego
 
-### **_Front-end Developer_**
-
 ![Front-end Developer](/img/front-end_developer.svg)
 
 I'm a self-taught front-end developer with a background in application integration and support. All
