@@ -1,7 +1,5 @@
 # Diego
 
-#### **`Front-end Developer`**
-
 ### **_Front-end Developer_**
 
 I'm a self-taught front-end developer with a background in application integration and support. All
