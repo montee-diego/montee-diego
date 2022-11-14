@@ -1,6 +1,10 @@
 # Diego
 
-**`Front-end Developer`**
+#### **`Front-end Developer`**
+
+<p style="font-size: 125%; font-weight: 600;">
+  Front-End Developer
+</p>
 
 I'm a self-taught front-end developer with a background in application integration and support. All
 my projects are designed and built from scratch with one or more of the following objectives:
