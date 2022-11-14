@@ -19,6 +19,6 @@ forget to check it out!
 
 <p align="left">
   <a href="https://github.com/montee-diego#languages-and-tools">
-    <img src="/img/skills/html" />
+    <img src="/img/skills/html.svg" alt="HTML" />
   </a>
 </p>
