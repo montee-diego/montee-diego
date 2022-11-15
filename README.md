@@ -36,5 +36,7 @@ forget to check it out!
 </p>
 
 <p align="left">
+  <a href="#"><img src="/img/skills/nextjs.svg" alt="NEXTJS" /></a>
+  <a href="#"><img src="/img/skills/vite.svg" alt="VITE" /></a>
   <a href="#"><img src="/img/skills/figma.svg" alt="FIGMA" /></a>
 </p>
